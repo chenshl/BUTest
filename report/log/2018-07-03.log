@@ -1,0 +1,241 @@
+2018-07-03 09:45:00 INFO  * Restarting with stat
+2018-07-03 09:45:01 WARNING  * Debugger is active!
+2018-07-03 09:45:01 INFO  * Debugger PIN: 187-411-473
+2018-07-03 09:45:01 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 09:46:30 INFO 192.168.1.31 - - [03/Jul/2018 09:46:30] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 09:46:30 INFO 192.168.1.31 - - [03/Jul/2018 09:46:30] "GET /favicon.ico HTTP/1.1" 404 -
+2018-07-03 09:46:54 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/1d84f462-557c-11e7-8393-6c92bf3160a3?date=2018-06-29&open_user=jvvtjdev&site_id=3&sign=D861977176E1F42D5FE8173027057F92  返回数据--{"value":3083}
+2018-07-03 09:46:54 INFO 192.168.1.31 - - [03/Jul/2018 09:46:54] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 09:46:58 INFO 192.168.1.31 - - [03/Jul/2018 09:46:58] "GET / HTTP/1.1" 404 -
+2018-07-03 09:47:04 INFO 192.168.1.31 - - [03/Jul/2018 09:47:04] "GET /home HTTP/1.1" 200 -
+2018-07-03 09:47:55 INFO 请求地址--http://192.168.8.21:6880/tasker/ilife/v1/customerSignData?categoryCode=ilife001&device=ANDROID&page=1&pageSize=40&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200010&version=v1.0&sign=edfca042dd8e0b63ab4a84c255839109
+2018-07-03 09:47:55 INFO 请求耗用时长--52.003 ms  返回数据--{"code":"200","message":"success","data":{"sign":{"todayBu":"20","tomorrowBu":"25","gainState":"2","partnerBehavior":"COMMONSIGNCODE","signList":2},"taskerNum":8,"tasker":[{"buConditon":"+10%BU","buShort":"推荐用户获消费流水奖励","currentState":"2","partnerBehavior":"0001A001B008T002","behaviorDrawBu":0,"behaviorDetail":"您推荐的用户在i生活商家消费后，获得消费流水奖励","behaviorNotify":"itype_sjsy","notifyType":"2"},{"buConditon":"+50BU","buShort":"推荐好友完成有效实名","currentState":"2","partnerBehavior":"0001A001B001T001","behaviorDrawBu":0,"behaviorDetail":"推荐好友完成有效实名","behaviorNotify":"itype_wdmp","notifyType":"2"},{"buConditon":"+20000BU","buShort":"推荐商家入驻","currentState":"2","partnerBehavior":"0001A001B009T003","behaviorDrawBu":0,"behaviorDetail":"作为城市合伙人，推荐您认识的商家入驻i生活获得奖励","behaviorNotify":"https://static.jinvovo.com/ilive/static/zhinan.html","notifyType":"1"},{"buConditon":"+200BU","buShort":"完成有效实名","currentState":"2","partnerBehavior":"0001A001B001","behaviorDrawBu":0,"behaviorDetail":"完成有效实名认证","behaviorNotify":"itype_smrz","notifyType":"2"},{"buConditon":"+10BU每次","buShort":"分享给朋友","currentState":"2","partnerBehavior":"0001A001B004","behaviorDrawBu":0,"behaviorDetail":"在i生活内分享商家、组局和名片，10BU/次，每日最多奖励50BU","behaviorNotify":"itype_sjsy","notifyType":"2"},{"buConditon":"+30BU","buShort":"在线活跃15分钟以上","currentState":"2","partnerBehavior":"0001A001B007","behaviorDrawBu":0,"behaviorDetail":"在i生活内在线并活跃15分钟以上","behaviorNotify":null},{"buConditon":"+50BU","buShort":"新用户首次登录（金链生态内）","currentState":"4","partnerBehavior":"0001A001B002","behaviorDrawBu":0,"behaviorDetail":"金链生态内第一次登录","behaviorNotify":"itype_login","currentTimes":1,"daySumTimes":1,"notifyType":"2"},{"buConditon":"+50BU","buShort":"完善个人资料","currentState":"2","partnerBehavior":"0001A001B003","behaviorDrawBu":0,"behaviorDetail":"在i生活里完善个人资料","behaviorNotify":"itype_wszl","notifyType":"2"},{"buConditon":"+10%BU","buShort":"推荐商家入驻获流水奖励","currentState":"2","partnerBehavior":"0001A001B011T005","behaviorDrawBu":0,"behaviorDetail":"作为城市合伙人，推荐商家入驻可获得商家流水奖励","behaviorNotify":"https://static.jinvovo.com/ilive/static/zhinan.html","notifyType":"1"},{"buConditon":"+20BU","buShort":"爱生活推荐首次登陆","currentState":"2","partnerBehavior":"0001A001B002T001","behaviorDrawBu":0,"behaviorDetail":"爱生活推荐首次登陆","behaviorNotify":null}]}}
+2018-07-03 09:47:55 INFO 192.168.1.31 - - [03/Jul/2018 09:47:55] "POST /FlaskTutorial HTTP/1.1" 200 -
+2018-07-03 09:49:22 INFO  * Restarting with stat
+2018-07-03 09:49:23 WARNING  * Debugger is active!
+2018-07-03 09:49:23 INFO  * Debugger PIN: 187-411-473
+2018-07-03 09:49:23 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 09:49:35 INFO 192.168.1.31 - - [03/Jul/2018 09:49:35] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 09:50:48 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/?date=&open_user=jvvtjdev&site_id=&sign=ACB849CAFF984B1D1AC4E5F0AEEB6150  返回数据--{"timestamp":"Jul 3, 2018 9:50:51 AM","status":401,"error":"Unauthorized","exception":"org.apache.shiro.authc.IncorrectCredentialsException","message":"org.apache.shiro.authc.IncorrectCredentialsException: Submitted credentials for token [com.jvvbc.tianji.shiro.StatelessToken@5dd7d329] did not match the expected credentials.","path":"/openreport/api/visit_length/"}
+2018-07-03 09:50:48 INFO 192.168.1.31 - - [03/Jul/2018 09:50:48] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 11:23:34 INFO 192.168.1.31 - - [03/Jul/2018 11:23:34] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 11:23:36 INFO 192.168.1.31 - - [03/Jul/2018 11:23:36] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 11:23:42 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/1d84f462-557c-11e7-8393-6c92bf3160a3?date=2018-06-29&open_user=jvvtjdev&site_id=3&sign=D861977176E1F42D5FE8173027057F92  返回数据--{"value":3083}
+2018-07-03 11:23:42 INFO 192.168.1.31 - - [03/Jul/2018 11:23:42] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 11:23:47 INFO 192.168.1.31 - - [03/Jul/2018 11:23:47] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 11:30:51 INFO 192.168.1.31 - - [03/Jul/2018 11:30:51] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 11:30:52 INFO 192.168.1.31 - - [03/Jul/2018 11:30:52] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 11:38:13 INFO  * Detected change in 'E:\\BUTest\\common\\request2buApi.py', reloading
+2018-07-03 11:38:14 INFO  * Restarting with stat
+2018-07-03 11:38:15 WARNING  * Debugger is active!
+2018-07-03 11:38:15 INFO  * Debugger PIN: 187-411-473
+2018-07-03 11:38:15 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 11:38:43 INFO  * Detected change in 'E:\\BUTest\\common\\request2buApi.py', reloading
+2018-07-03 11:38:43 INFO  * Restarting with stat
+2018-07-03 11:38:44 WARNING  * Debugger is active!
+2018-07-03 11:38:44 INFO  * Debugger PIN: 187-411-473
+2018-07-03 11:38:44 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 13:43:41 INFO 192.168.1.31 - - [03/Jul/2018 13:43:41] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 13:43:43 INFO 192.168.1.31 - - [03/Jul/2018 13:43:43] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 13:43:58 INFO 192.168.1.31 - - [03/Jul/2018 13:43:58] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 14:13:43 INFO  * Detected change in 'E:\\BUTest\\common\\request2buApi.py', reloading
+2018-07-03 14:13:43 INFO  * Restarting with stat
+2018-07-03 14:13:44 WARNING  * Debugger is active!
+2018-07-03 14:13:44 INFO  * Debugger PIN: 187-411-473
+2018-07-03 14:13:44 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 14:52:56 INFO 192.168.1.31 - - [03/Jul/2018 14:52:56] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 14:53:35 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=&userName=&version=v1.0&sign=f2a1c3629ea0986bcdb05dfce84c7f59
+2018-07-03 14:53:35 INFO 请求耗用时长--106.006 ms  返回数据--{"code":"301","message":"手机号码不能为空"}
+2018-07-03 15:08:53 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&version=v1.0&sign=8be243af8929826fbcab980ed891509a
+2018-07-03 15:08:53 INFO 请求耗用时长--70.004 ms  返回数据--{"code":"301","message":"手机号码不能为空"}
+2018-07-03 15:09:34 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=&userName=&version=v1.0&sign=f2a1c3629ea0986bcdb05dfce84c7f59
+2018-07-03 15:09:34 INFO 请求耗用时长--31.002 ms  返回数据--{"code":"301","message":"手机号码不能为空"}
+2018-07-03 15:09:48 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=&version=v1.0&sign=07a002303a62128f70b9f77bde8db852
+2018-07-03 15:09:48 INFO 请求耗用时长--21.001 ms  返回数据--{"code":"301","message":"手机号码不能为空"}
+2018-07-03 15:11:09 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200010&version=v1.0&sign=b073234fa5d9ed9f33e3a6f566eb8f76
+2018-07-03 15:11:10 INFO 请求耗用时长--441.025 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200010","state":"1"}}
+2018-07-03 15:15:04 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200012&version=v1.0&sign=304adc2702cdb89dd49af9e0c8c72a3e
+2018-07-03 15:15:04 INFO 请求耗用时长--209.012 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200012","state":"1"}}
+2018-07-03 15:20:19 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200013&userName=&version=v1.0&sign=d162012a91a7bc4ebacf4407bf64e0b8
+2018-07-03 15:20:19 INFO 请求耗用时长--182.011 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200013","state":"1"}}
+2018-07-03 15:21:29 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200014&userName=aaaaaaa&version=v1.0&sign=80333c033999a5d87d52ac754315cdaf
+2018-07-03 15:21:29 INFO 请求耗用时长--202.012 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200014","state":"1"}}
+2018-07-03 15:23:42 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200015&userName=一二三四五六七八九十一二三四五六七八九十&version=v1.0&sign=6176460576c68df56630df0f78d4966c
+2018-07-03 15:23:42 INFO 请求耗用时长--168.01 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200015","state":"1"}}
+2018-07-03 15:25:01 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=%￥%&……&*甲方……&%%……《&version=v1.0&sign=036b408f795b3acb8cbd43426761cdc9
+2018-07-03 15:25:01 INFO 请求耗用时长--21.001 ms  返回数据--{"code":"301","message":"签名不正确"}
+2018-07-03 15:25:20 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=*%￥%%##%##￥%%@#@&version=v1.0&sign=6e83901936e86327a0b047123f2f2f58
+2018-07-03 15:25:20 INFO 请求耗用时长--19.001 ms  返回数据--{"code":"301","message":"版本号不能为空"}
+2018-07-03 15:25:25 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=*%￥%%##%##￥%%@#@&version=v1.0&sign=6e83901936e86327a0b047123f2f2f58
+2018-07-03 15:25:25 INFO 请求耗用时长--25.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 15:25:29 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=*%￥%%##%##￥%%@#@&version=v1.0&sign=6e83901936e86327a0b047123f2f2f58
+2018-07-03 15:25:29 INFO 请求耗用时长--15.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 15:26:19 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=@@@@######@@@@@********&version=v1.0&sign=5c568a692aa105afd91acf6127ef461d
+2018-07-03 15:26:19 INFO 请求耗用时长--16.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 15:26:46 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=@@@@######@@@@@%%%%%%%&version=v1.0&sign=08900fc528f2f97d519fd653585ae61a
+2018-07-03 15:26:46 INFO 请求耗用时长--15.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 15:26:57 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=@@@@######@@@@@&version=v1.0&sign=66086a556a1d7c4f0fc0775cf8d49778
+2018-07-03 15:26:57 INFO 请求耗用时长--16.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 15:59:46 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200100&userName=你妹你妹你妹妹&version=v1.0&sign=412e4d2487b94c0afa5713657607ed42
+2018-07-03 15:59:46 INFO 请求耗用时长--25.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 15:59:50 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200100&userName=你妹你妹你妹妹&version=v1.0&sign=412e4d2487b94c0afa5713657607ed42
+2018-07-03 15:59:50 INFO 请求耗用时长--15.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 16:00:04 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200100&userName=阿达地方&version=v1.0&sign=2920494de8079c5bd7b72cd89e0c45db
+2018-07-03 16:00:04 INFO 请求耗用时长--14.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 16:00:34 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200100&userName=bbbbbbb&version=v1.0&sign=8774ab1ad859f29a6aae33a79555a74c
+2018-07-03 16:00:34 INFO 请求耗用时长--16.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 16:01:09 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=bbbbbbb&version=v1.0&sign=06cd11c67705598da80284bfc9de3d3a
+2018-07-03 16:01:09 INFO 请求耗用时长--18.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 16:02:42 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=bbbbbbb&version=v1.0&sign=06cd11c67705598da80284bfc9de3d3a
+2018-07-03 16:02:42 INFO 请求耗用时长--16.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 16:04:15 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&version=v1.0&sign=557e0b19ca4b11ef470bd9c1acc42579
+2018-07-03 16:04:15 INFO 请求耗用时长--16.001 ms  返回数据--{"code":"301","message":"加密类型不能为空"}
+2018-07-03 16:24:31 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200016&userName=bbbbbbb&version=v1.0&sign=06cd11c67705598da80284bfc9de3d3a
+2018-07-03 16:24:31 INFO 请求耗用时长--274.016 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:25:10 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&userMobile=18716200100&userName=ccccccccccccccccccc&version=v1.0&sign=c1954dd5ca6c868ce5be475cd35ce6a9
+2018-07-03 16:25:11 INFO 请求耗用时长--206.012 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200100","state":"1"}}
+2018-07-03 16:26:27 INFO  * Detected change in 'E:\\BUTest\\common\\request2buApi.py', reloading
+2018-07-03 16:26:27 INFO  * Restarting with stat
+2018-07-03 16:26:29 WARNING  * Debugger is active!
+2018-07-03 16:26:29 INFO  * Debugger PIN: 187-411-473
+2018-07-03 16:26:29 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 16:26:32 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&userMobile=18716200016&userName=dddd&version=v1.0&sign=3d10a8f0869097c25f75782108c2345d
+2018-07-03 16:26:32 INFO 请求耗用时长--235.013 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:27:28 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&userMobile=18716200016&userName=dddd&version=v1.0&sign=3d10a8f0869097c25f75782108c2345d
+2018-07-03 16:27:28 INFO 请求耗用时长--195.011 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:28:02 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&userMobile=18716200016&userName=dddd&version=v1.0&sign=3d10a8f0869097c25f75782108c2345d
+2018-07-03 16:28:02 INFO 请求耗用时长--202.012 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:28:14 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&userMobile=18716200016&userName=dddd&version=v1.0&sign=3d10a8f0869097c25f75782108c2345d
+2018-07-03 16:28:15 INFO 请求耗用时长--187.011 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:28:49 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&userMobile=18716200016&userName=eeeee&version=v1.0&sign=f5a7425f5d6d5a7ac9097735eb30498f
+2018-07-03 16:28:49 INFO 请求耗用时长--208.012 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:29:22 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&userMobile=18716200016&userName=eeeee&version=v1.0&sign=f5a7425f5d6d5a7ac9097735eb30498f
+2018-07-03 16:29:23 INFO 请求耗用时长--144.008 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:34:26 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&version=v1.0&sign=1668267c139c5c863dd15bb189db5b4f
+2018-07-03 16:34:26 INFO 请求耗用时长--72.004 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 16:34:33 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&version=v1.0&sign=1668267c139c5c863dd15bb189db5b4f
+2018-07-03 16:34:33 INFO 请求耗用时长--28.002 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 16:34:41 INFO 请求地址--http://192.168.8.18:6881/app/v1/merchants?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&userMobile=18716200016&userName=eeeee&version=v1.0&sign=f5a7425f5d6d5a7ac9097735eb30498f
+2018-07-03 16:34:42 INFO 请求耗用时长--204.012 ms  返回数据--{"code":"200","message":"success","data":{"mobile":"18716200016","state":"1"}}
+2018-07-03 16:36:11 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&version=v1.0&sign=1668267c139c5c863dd15bb189db5b4f
+2018-07-03 16:36:11 INFO 请求耗用时长--38.002 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 16:38:11 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&fromUserMobile=18716200006&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&version=v1.0&sign=b82adc76dc2bdcf332a12fe2be9f5d05
+2018-07-03 16:38:11 INFO 请求耗用时长--53.003 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 16:39:30 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&fromUserMobile=18716200006&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&version=v1.0&sign=5f3c6c22ccfe798b2e807aede0a32324
+2018-07-03 16:39:30 INFO 请求耗用时长--93.005 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 16:41:26 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&fromUserMobile=18716200006&randomNum=test_001&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&version=v1.0&sign=bd586ef5c989b30de733a47f5e22af78
+2018-07-03 16:41:26 INFO 请求耗用时长--53.003 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 16:43:07 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&fromUserMobile=18716200006&randomNum=test_001&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&tranBody=i生活平台用户测试交易&version=v1.0&sign=834b3b42d0a99b7cc67b6e6787d4e4ea
+2018-07-03 16:43:07 INFO 请求耗用时长--28.002 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 16:43:49 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&tranBody=i生活平台用户测试交易&version=v1.0&sign=a7fa1bf21d1d62df96aba6cccd726a23
+2018-07-03 16:43:49 INFO 请求耗用时长--30.002 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:06:29 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&tranBody=i生活平台用户测试交易&version=v1.0&sign=691f534a7a26ab6f39f61157fd21b75b
+2018-07-03 17:06:29 INFO 请求耗用时长--53.003 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:07:31 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&tranBody=i生活平台用户测试交易&version=v1.0&sign=93517c3f5fc4f26d391cb85e56ee4aa8
+2018-07-03 17:07:31 INFO 请求耗用时长--70.004 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:08:29 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&startTime=20180703170800&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&tranBody=i生活平台用户测试交易&version=v1.0&sign=1df589225f97b9ac2b229403ef4b8ba2
+2018-07-03 17:08:29 INFO 请求耗用时长--34.002 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:09:56 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?attachStr=teststr_001&buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&notifyUrl=192.168.1.31&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&startTime=20180703170800&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&tranBody=i生活平台用户测试交易&version=v1.0&sign=5785221b70430170f53ccad353b371a4
+2018-07-03 17:09:56 INFO 请求耗用时长--63.004 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:10:14 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?attachStr=teststr_001&buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&notifyUrl=192.168.1.31&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&startTime=20180703170800&terraceId=6c7dbaa891b3f476b90be2b16c5cfdac&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=bff2f60b24f092e4618efdfbf8a47f6e
+2018-07-03 17:10:14 INFO 请求耗用时长--28.002 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:10:27 INFO  * Detected change in 'E:\\BUTest\\common\\request2buApi.py', reloading
+2018-07-03 17:10:27 INFO  * Restarting with stat
+2018-07-03 17:10:29 WARNING  * Debugger is active!
+2018-07-03 17:10:29 INFO  * Debugger PIN: 187-411-473
+2018-07-03 17:10:29 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 17:10:40 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=88e031f7a939b60c476897c367b7993a
+2018-07-03 17:10:40 INFO 请求耗用时长--27.002 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:10:59 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&startTime=20180703170800&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=46fbae07c38fc72d62ca1053c88a8f2b
+2018-07-03 17:10:59 INFO 请求耗用时长--186.011 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:11:04 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?attachStr=teststr_001&buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&notifyUrl=192.168.1.31&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&startTime=20180703170800&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=b9418ae06e1d74c04685600dc32ac0db
+2018-07-03 17:11:05 INFO 请求耗用时长--336.019 ms  返回数据--{"code":"200","message":"success","data":{"sign":"b9418ae06e1d74c04685600dc32ac0db","pretranId":"e16e3701951f0a1cd96a9cfeae03406c92cd7cef54700af484f7599b2e911dcf","outTradeNo":"testoutTradeNo_001","attachStr":"teststr_001","fromUserMobile":"18716200006","toUserMobile":"18716200014","terraceId":"caeb2f137dd581bf8f11a3a2bc190b58","randomNum":"test_001","orderNum":"15306090673011112647283155110006"}}
+2018-07-03 17:11:59 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&startTime=20180703170800&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=46fbae07c38fc72d62ca1053c88a8f2b
+2018-07-03 17:11:59 INFO 请求耗用时长--57.003 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:13:21 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_001&randomNum=test_001&signType=MD5&startTime=20180703170800&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=46fbae07c38fc72d62ca1053c88a8f2b
+2018-07-03 17:13:21 INFO 请求耗用时长--53.003 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:13:52 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_002&randomNum=test_002&signType=MD5&startTime=20180703170801&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=d0feae20c54c734b78dbbcc00eb6e894
+2018-07-03 17:13:52 INFO 请求耗用时长--54.003 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:24:36 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?attachStr=teststr_001&buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&notifyUrl=192.168.1.31&outTradeNo=testoutTradeNo_002&randomNum=test_002&signType=MD5&startTime=20180703170801&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=9139f76385d43668c59a4bfee6eb90f9
+2018-07-03 17:24:37 INFO 请求耗用时长--394.023 ms  返回数据--{"code":"200","message":"success","data":{"sign":"9139f76385d43668c59a4bfee6eb90f9","pretranId":"3a497c5c0c4452b7d1cfb249fc33e2e2a79befde7b2167352eeff4e143ca1564","outTradeNo":"testoutTradeNo_002","attachStr":"teststr_001","fromUserMobile":"18716200006","toUserMobile":"18716200014","terraceId":"caeb2f137dd581bf8f11a3a2bc190b58","randomNum":"test_002","orderNum":"15306098792691112647284119970006"}}
+2018-07-03 17:28:29 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?attachStr=teststr_001&buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&notifyUrl=192.168.1.31&outTradeNo=testoutTradeNo_002&randomNum=test_002&signType=MD5&startTime=20180703170801&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=9139f76385d43668c59a4bfee6eb90f9
+2018-07-03 17:28:29 INFO 请求耗用时长--148.008 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:28:47 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?attachStr=teststr_001&buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&notifyUrl=192.168.1.31&outTradeNo=testoutTradeNo_002&randomNum=test_002&signType=MD5&startTime=20180703170801&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=9139f76385d43668c59a4bfee6eb90f9
+2018-07-03 17:28:47 INFO 请求耗用时长--117.007 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:41:01 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_003&randomNum=test_003&signType=MD5&startTime=20180703170801&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=8eff1d4494524e7a5e62d6ec3dcb0f54
+2018-07-03 17:41:01 INFO 请求耗用时长--217.012 ms  返回数据--{"code":"200","message":"success","data":{"sign":"8eff1d4494524e7a5e62d6ec3dcb0f54","pretranId":"10c32c80134de12a65e2f3f51afa17b3271ed451c2ee476d852e55508983c6eb","outTradeNo":"testoutTradeNo_003","attachStr":null,"fromUserMobile":"18716200006","toUserMobile":"18716200014","terraceId":"caeb2f137dd581bf8f11a3a2bc190b58","randomNum":"test_003","orderNum":"15306108639381112647285172110006"}}
+2018-07-03 17:41:22 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_003&randomNum=test_003&signType=MD5&startTime=20180703170801&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=8eff1d4494524e7a5e62d6ec3dcb0f54
+2018-07-03 17:41:22 INFO 请求耗用时长--109.006 ms  返回数据--{"code":"500","message":"服务器不小心发生了点异常，请稍等"}
+2018-07-03 17:43:53 INFO 192.168.1.31 - - [03/Jul/2018 17:43:53] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 17:43:54 INFO 192.168.1.31 - - [03/Jul/2018 17:43:54] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 17:44:56 INFO 192.168.2.55 - - [03/Jul/2018 17:44:56] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 17:44:57 INFO 192.168.2.55 - - [03/Jul/2018 17:44:57] "GET /favicon.ico HTTP/1.1" 404 -
+2018-07-03 17:45:43 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/2017123000100119521?date=2018-07-03&open_user=jvvtjdev&site_id=3&sign=077655E8F43A0CD9F9305871D071B5D2  返回数据--{"value":0}
+2018-07-03 17:45:43 INFO 192.168.2.55 - - [03/Jul/2018 17:45:43] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 17:46:10 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/2017123000100119521?date=2018-07-02&open_user=jvvtjdev&site_id=3&sign=0BEA061F36CAB839EBF7403C803D255F  返回数据--{"value":0}
+2018-07-03 17:46:10 INFO 192.168.2.55 - - [03/Jul/2018 17:46:10] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 17:46:23 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/2017123000100119521?date=2018-07-02&open_user=jvvtjdev&site_id=4&sign=1344AFAD5CC00D3EDE3E1C9D65145023  返回数据--{"value":0}
+2018-07-03 17:46:23 INFO 192.168.2.55 - - [03/Jul/2018 17:46:23] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 17:47:37 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/1d84f462-557c-11e7-8393-6c92bf3160a3?date=2018-06-29&open_user=jvvtjdev&site_id=3&sign=D861977176E1F42D5FE8173027057F92  返回数据--{"value":3083}
+2018-07-03 17:47:37 INFO 192.168.1.31 - - [03/Jul/2018 17:47:37] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 17:48:18 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/1d84f462-557c-11e7-8393-6c92bf3160a3?date=2018-06-29&open_user=jvvtjdev&site_id=3&sign=D861977176E1F42D5FE8173027057F92  返回数据--{"value":3083}
+2018-07-03 17:48:18 INFO 192.168.1.31 - - [03/Jul/2018 17:48:18] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 17:49:33 INFO 192.168.1.31 - - [03/Jul/2018 17:49:33] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 17:49:43 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/?date=&open_user=jvvtjdev&site_id=&sign=ACB849CAFF984B1D1AC4E5F0AEEB6150  返回数据--{"timestamp":"Jul 3, 2018 5:49:45 PM","status":401,"error":"Unauthorized","exception":"org.apache.shiro.authc.IncorrectCredentialsException","message":"org.apache.shiro.authc.IncorrectCredentialsException: Submitted credentials for token [com.jvvbc.tianji.shiro.StatelessToken@708ae01f] did not match the expected credentials.","path":"/openreport/api/visit_length/"}
+2018-07-03 17:49:43 INFO 192.168.1.31 - - [03/Jul/2018 17:49:43] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 17:58:36 INFO 192.168.2.55 - - [03/Jul/2018 17:58:36] "GET /onlinetimes HTTP/1.1" 200 -
+2018-07-03 17:58:51 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/20171230001001195215 ?date=2018-07-03&open_user=jvvtjdev&site_id=3&sign=077655E8F43A0CD9F9305871D071B5D2  返回数据--{"value":2884}
+2018-07-03 17:58:51 INFO 192.168.2.55 - - [03/Jul/2018 17:58:51] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 17:59:50 INFO 请求地址--https://tongji.jwwblockchain.com/openreport/api/visit_length/20171230001001195215 ?date=2018-07-02&open_user=jvvtjdev&site_id=3&sign=0BEA061F36CAB839EBF7403C803D255F  返回数据--{"value":86}
+2018-07-03 17:59:50 INFO 192.168.2.55 - - [03/Jul/2018 17:59:50] "POST /tianjireqresult HTTP/1.1" 200 -
+2018-07-03 20:31:57 INFO  * Restarting with stat
+2018-07-03 20:31:59 WARNING  * Debugger is active!
+2018-07-03 20:31:59 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:31:59 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:32:54 INFO  * Restarting with stat
+2018-07-03 20:32:56 WARNING  * Debugger is active!
+2018-07-03 20:32:56 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:32:57 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:33:27 INFO  * Detected change in 'D:\\pyWorkspace\\BUTest\\web\\start_web.py', reloading
+2018-07-03 20:33:27 INFO  * Restarting with stat
+2018-07-03 20:33:30 WARNING  * Debugger is active!
+2018-07-03 20:33:30 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:33:38 INFO  * Restarting with stat
+2018-07-03 20:33:40 WARNING  * Debugger is active!
+2018-07-03 20:33:40 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:33:40 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:34:02 INFO  * Restarting with stat
+2018-07-03 20:34:04 WARNING  * Debugger is active!
+2018-07-03 20:34:04 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:34:04 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:34:44 INFO 127.0.0.1 - - [03/Jul/2018 20:34:44] "GET /home/ HTTP/1.1" 404 -
+2018-07-03 20:34:44 INFO 127.0.0.1 - - [03/Jul/2018 20:34:44] "GET /favicon.ico HTTP/1.1" 404 -
+2018-07-03 20:35:16 INFO  * Restarting with stat
+2018-07-03 20:35:20 WARNING  * Debugger is active!
+2018-07-03 20:35:20 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:35:20 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:35:57 INFO  * Restarting with stat
+2018-07-03 20:35:59 WARNING  * Debugger is active!
+2018-07-03 20:35:59 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:35:59 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:36:11 INFO  * Restarting with stat
+2018-07-03 20:36:13 WARNING  * Debugger is active!
+2018-07-03 20:36:13 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:36:13 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:36:48 INFO 请求地址--http://192.168.8.18:6881/app/v1/generalTran?buAmount=50&createIp=192.168.1.31&device=ANDROID&fromUserMobile=18716200006&outTradeNo=testoutTradeNo_003&randomNum=test_003&signType=MD5&startTime=20180703170801&terraceId=caeb2f137dd581bf8f11a3a2bc190b58&toUserMobile=18716200014&tranBody=aaaaaaaaa&version=v1.0&sign=8eff1d4494524e7a5e62d6ec3dcb0f54
+2018-07-03 20:37:35 INFO  * Restarting with stat
+2018-07-03 20:37:37 WARNING  * Debugger is active!
+2018-07-03 20:37:37 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:37:37 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:37:45 INFO  * Restarting with stat
+2018-07-03 20:37:47 WARNING  * Debugger is active!
+2018-07-03 20:37:47 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:37:47 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:41:36 INFO  * Restarting with stat
+2018-07-03 20:41:38 WARNING  * Debugger is active!
+2018-07-03 20:41:38 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:41:38 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
+2018-07-03 20:42:02 INFO  * Restarting with stat
+2018-07-03 20:42:04 WARNING  * Debugger is active!
+2018-07-03 20:42:04 INFO  * Debugger PIN: 175-587-257
+2018-07-03 20:42:04 INFO  * Running on http://0.0.0.0:9001/ (Press CTRL+C to quit)
